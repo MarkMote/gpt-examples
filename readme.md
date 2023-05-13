@@ -1,3 +1,6 @@
+# Info
+Extremely simple GPT examples with LangChain. 
+
 # Setup 
 
 Create virtual environment 
